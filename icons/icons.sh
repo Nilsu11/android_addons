@@ -4,3 +4,5 @@ cp -f camera.xml ~/modLOS/Aperture/app/src/main/res/drawable/ic_launcher_foregro
 sed -i '$d' ~/modLOS/Aperture/app/src/main/res/values/colors.xml
 echo '    <color name="ic_background">#68be6c</color>' >> ~/modLOS/Aperture/app/src/main/res/values/colors.xml
 echo '</resources>' >> ~/modLOS/Aperture/app/src/main/res/values/colors.xml
+cp -f musicb.xml ~/modLOS/Eleven/res/drawable/ic_launcher_background.xml
+cp -f musicf.xml ~/modLOS/Eleven/res/drawable/ic_launcher_foreground.xml
