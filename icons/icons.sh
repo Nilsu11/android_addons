@@ -6,3 +6,4 @@ echo '    <color name="ic_background">#68be6c</color>' >> ~/modLOS/Aperture/app/
 echo '</resources>' >> ~/modLOS/Aperture/app/src/main/res/values/colors.xml
 cp -f musicb.xml ~/modLOS/Eleven/res/drawable/ic_launcher_background.xml
 cp -f musicf.xml ~/modLOS/Eleven/res/drawable/ic_launcher_foreground.xml
+cp -f audiofx.xml ~/modLOS/Audiofx/res/drawable/ic_launcher_background.xml
