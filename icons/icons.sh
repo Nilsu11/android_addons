@@ -9,7 +9,6 @@ cp -f musicf.xml ~/modLOS/Eleven/res/drawable/ic_launcher_foreground.xml
 cp -f audiofx.xml ~/modLOS/Audiofx/res/drawable/ic_launcher_background.xml
 cp -f recorderf.xml ~/modLOS/Recorder/app/src/main/res/drawable/ic_launcher_foreground.xml
 cp -f recorderb.xml ~/modLOS/Recorder/app/src/main/res/drawable/ic_launcher_background.xml
-cp -f etarf.xml ~/modLOS/Etar/app/src/main/res/drawable/ic_launcher_foreground.xml
-cp -f etarb.xml ~/modLOS/Etar/app/src/main/res/drawable/ic_launcher_background.xml
+cp -f etar.xml ~/modLOS/Etar/app/src/main/res/drawable/ic_launcher_background.xml
 cp -f calcb.xml ~/modLOS/ExactCalculator/res/drawable/ic_launcher_background.xml
 cp -f calcf.xml ~/modLOS/ExactCalculator/res/drawable/ic_launcher_foreground.xml
