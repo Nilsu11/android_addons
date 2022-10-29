@@ -4,4 +4,4 @@ git clone https://github.com/LineageOS/android_packages_apps_Etar.git ~/modLOS/E
 git clone https://github.com/LineageOS/android_packages_apps_ExactCalculator.git ~/modLOS/ExactCalculator
 git clone https://github.com/LineageOS/android_packages_apps_Recorder.git ~/modLOS/Recorder
 sh ExactCalculator.sh
-sh ic_dev.sh
+sh icons/ic_dev.sh
