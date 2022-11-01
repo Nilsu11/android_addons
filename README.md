@@ -5,6 +5,7 @@ TODO:
 --------
 
 add more custom icons
+add sh-files for induvidial apps
 
 OmniClock:
 delete r specific files afterwards/before
