@@ -1,6 +1,7 @@
 # android_addons
 
 let others do the maintaining while adding new feature or icons
+
 this is dependent of other projects(mostly lineageos)
 
 TODO:
@@ -20,4 +21,5 @@ Thanks to:
 ----------
 
 LineageOS/CyanogenMod(for nearly every app used here)
+
 OmniROM(for OmniClock)
