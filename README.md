@@ -2,7 +2,7 @@
 
 let others do the maintaining while adding new feature or icons
 
-this is dependent of other projects(mostly lineageos)
+this depends on other projects(mostly lineageos) so contribute to them!!!
 
 TODO:
 --------
