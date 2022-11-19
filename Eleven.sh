@@ -1,3 +1,4 @@
+git clone https://github.com/LineageOS/android_packages_apps_Eleven.git ~/modLOS/Eleven
 sed -i "s/'@drawable/ic_launcher_monochrome'/'@drawable/ic_launcher_foreground'/g" ~/modLOS/Eleven/res/mipmap-anydpi/ic_launcher.xml
 sed -i "s/'    <background android:drawable="@drawable/ic_launcher_background" />'/'    <background android:drawable="@color/ic_background" />'/g" ~/modLOS/Eleven/res/mipmap-anydpi/ic_launcher.xml
 sed -i '$d' ~/modLOS/Eleven/res/values/colors.xml
