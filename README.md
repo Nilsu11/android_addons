@@ -11,10 +11,11 @@ add more custom icons
 add sh-files for induvidial apps
 
 OmniClock:
-delete r specific files afterwards/before
-fix errors while building
+
+showtimeeditdialog causes all errors
 
 AudioFX:
+
 add gradle
 
 Thanks to:
